@@ -21,16 +21,4 @@ public class P70 {
         return hash[n-1];
     }
 
-//    public void climb(int n, int target){
-//        if ( n == target ){
-//            count++;
-//        }
-//        if( n > target){
-//            return;
-//        }
-//
-//        for(int i = 1; i <= 2; i++){
-//            climb(n + i, target);
-//        }
-//    }
 }
