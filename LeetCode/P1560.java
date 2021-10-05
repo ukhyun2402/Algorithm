@@ -56,9 +56,7 @@ public class P1560 {
                 answer.add(i);
             }
         }
-
         System.out.println(Arrays.toString(visited));
-
         return answer;
     }
 }
