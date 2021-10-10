@@ -4,7 +4,6 @@
  * DIFFICULTY: MEDIUM
  * */
 
-
 import java.util.Arrays;
 
 /*
@@ -13,20 +12,15 @@ import java.util.Arrays;
 public class P189 {
     public static void main(String[] args) {
         P189 SOL = new P189();
-        SOL.rotate(new int[]{1, 2, 3, 4, 5, 6, 7}, 7);
+        SOL.rotate(new int[]{1, 2, 3, 4, 5, 6, 7}, 3);
     }
 
     public void rotate(int[] nums, int k) {
+        int[] result = nums.clone();
 
-        for (int i = 0; i < k; i++) {
-            int p1 = 0, p2 = 1, tmp = -1;
-
-            for (int j = 0; j < nums.length; j++) {
-                tmp = nums[p2];
-                nums[p2] = tmp;
-                p1 = (p1 + 1) % nums.length;
-                p2 = (p2 + 1) % nums.length;
-            }
+        for(int i = 0 ; i < nums.length; i++){
+            int inputIndex = (i + k) % nums.length;
+            nums[inputIndex] = result[i];
         }
         System.out.println(Arrays.toString(nums));
     }

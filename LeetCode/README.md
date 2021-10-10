@@ -10,6 +10,7 @@ LeetCode
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Java|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Kotlin|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Java|Medium|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Java|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Java|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Java|Hard|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Java|Easy|
