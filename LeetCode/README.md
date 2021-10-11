@@ -9,15 +9,18 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Java|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Java|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Kotlin|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Java|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Java|Medium|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Java|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Java|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Java|Hard|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Java|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Java|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Java|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Java|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|Kotlin|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|Java|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Java|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Java|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Java|Easy|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|Java|Easy|
