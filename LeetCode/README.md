@@ -17,6 +17,7 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Java|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Java|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Java|Easy|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Java|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Java|Medium|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|Kotlin|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|Java|Easy|
