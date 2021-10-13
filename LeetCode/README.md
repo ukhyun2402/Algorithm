@@ -24,6 +24,7 @@ LeetCode
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Java|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Java|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Java|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|Java|Medium|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|Java|Easy|
 |1550|[Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)|Java|Easy|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|Java|Easy|
