@@ -16,6 +16,7 @@ LeetCode
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Java|Hard|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Java|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Java|Easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Java|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Java|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Java|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Java|Medium|
