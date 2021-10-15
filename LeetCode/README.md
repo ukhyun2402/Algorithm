@@ -5,6 +5,7 @@ LeetCode
 | # | Title | Language | Difficulty | 
 |:--:|:----|:--------|:----------|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Java| Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| Java| Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Java|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Java|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Java|Medium|
